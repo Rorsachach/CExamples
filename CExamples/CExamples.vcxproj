@@ -147,6 +147,7 @@
     <ClInclude Include="1_helloworld.h" />
     <ClInclude Include="2_multiply.h" />
     <ClInclude Include="3_compare.h" />
+    <ClInclude Include="4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

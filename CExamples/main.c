@@ -1,4 +1,4 @@
-#include "3_compare.h"
+#include "4.h"
 
 void main() {
 	func();

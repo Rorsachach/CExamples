@@ -29,5 +29,8 @@
     <ClInclude Include="3_compare.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
