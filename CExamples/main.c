@@ -1,5 +1,8 @@
-#include "7.h"
+#include "8.h"
+#define A "as"
+const int Ap = 0;
 
 void main() {
-	func();
+	//func();
+	printf("%d", A);
 }
